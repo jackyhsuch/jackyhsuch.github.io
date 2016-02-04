@@ -37,6 +37,9 @@ Author URI : http://www.markups.io/
 .tittle>span{
   color: #00d999;
 }
+.green>span{
+color: #00d999;
+}
 .single-wc-content span {
   border: 1px solid #00d999;
   color: #00d999;
