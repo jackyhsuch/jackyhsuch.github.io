@@ -1649,6 +1649,11 @@ img{
 	background-color: #00aced;
 	border-color: #00aced;
 }
+.footer-social a.instagram:hover{
+	color: #fff;
+	background-color: #a15016;
+	border-color: #a15016;
+}
 .footer-social a.google-plus:hover{
 	color: #fff;
 	background-color: #dd4b39;
