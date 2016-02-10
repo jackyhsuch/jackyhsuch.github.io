@@ -286,4 +286,10 @@ jQuery(function($){
     );
     wow.init();
 
+
+
+	$('#myModal').on('shown.bs.modal', function () {
+		$('#myInput').focus()
+	})
+
 });

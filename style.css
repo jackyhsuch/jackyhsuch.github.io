@@ -969,7 +969,6 @@ img{
 .single-item>img{
 	width: 100%;
     display: block;
-    height: 290px;
     -webkit-transition: all 0.5s ease 0s;
 	-o-transition: all 0.5s ease 0s;
 	transition: all 0.5s ease 0s;
@@ -1001,7 +1000,7 @@ img{
 .portfolio-social-icon {  
 	float: left;
 	display: inline;
-	padding: 110px 50px;
+	padding: 60px 50px;
 	width: 100%;
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
@@ -2981,4 +2980,8 @@ img{
 	}
 
 	
+}
+
+.modal-content {
+	padding: 0px 20px;
 }
